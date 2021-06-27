@@ -18,7 +18,7 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "4cd34fdb-cd6d-4a6a-907f-926d0c92c3f7",
+        "value": "1786482044:AAEtVKPMGd0gxysICOI1PRA4LQq7tu7NJ-A",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
@@ -33,7 +33,7 @@
       },
       "DOWNLOAD_STATUS_UPDATE_INTERVAL": {
         "description": "A short interval of time in seconds after which the Mirror progress message is updated. (I recommend to keep it 5 seconds at least).",
-        "value": "4",
+        "value": "3",
         "required":false
       },
       "OWNER_ID": {
